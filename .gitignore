@@ -12,7 +12,7 @@
 hs_err_pid*
 /build/
 /bin/
-/.classpath/
-/.settings/
-/.project/
+.classpath/
+.settings/
+.project/
 
